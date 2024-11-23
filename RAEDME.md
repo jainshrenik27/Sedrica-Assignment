@@ -1,0 +1,3 @@
+# gitone
+for sedrica assignment
+
